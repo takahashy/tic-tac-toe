@@ -1,3 +1,8 @@
+'''
+runner.py
+
+Creates the interface for tic tac toe
+'''
 import pygame
 import sys
 import time
